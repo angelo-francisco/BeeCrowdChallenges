@@ -1,9 +1,9 @@
 # Solving Beecrowd Challenges
 
-The best that you can do to pratice your programming logic is solve problems, and one of the best plataforms to do this is the BeeCrowd.
+The best that you can do to pratice your programming logic is to solve problems, and one of the best platforms to do this is BeeCrowd.
 
-You'll follow my journey to solve the maximum of Beecrowd exercises, Welcome!
+You'll follow my journey to solve as many Beecrowd exercises as possible, Welcome!
 
-# Plataform
+# Platform
 
-Acess the beecrowd plataform [Here](https://www.beecrowd.com.br/)
+Acess the beecrowd platform [Here](https://www.beecrowd.com.br/)
