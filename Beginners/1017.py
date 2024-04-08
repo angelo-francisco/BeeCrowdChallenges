@@ -1,7 +1,7 @@
-tempo_gasto = float(input(''))
-velocidade = float(input(''))
+tempo_gasto = float(input(""))
+velocidade = float(input(""))
 
-distancia_percorrida = velocidade*tempo_gasto
+distancia_percorrida = velocidade * tempo_gasto
 litros_necessarios = distancia_percorrida / 12
 
-print(f'{litros_necessarios:.3f}')
+print(f"{litros_necessarios:.3f}")
